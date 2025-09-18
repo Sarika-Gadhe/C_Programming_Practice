@@ -55,5 +55,5 @@ C_Programming_Practice/
 ├── Pattern-Printing/ # Pattern printing programs
 └── ... # Other C practice programs
 
-## 📂 Folder / File Structure
+
 
