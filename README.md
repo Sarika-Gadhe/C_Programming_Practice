@@ -44,16 +44,16 @@ By working through these programs, learners will be able to:
 ```text
 
 C_Programming_Practice/
-├── Advanced_Programs/ # Advanced C programs
-├── Array-Operations/ # Array operation programs
-├── Basics/ # Basic C programs
-├── Character_String_Operations/ # String and character operations
-├── Data_Structures/ # Data structure programs
-├── Digits-Operations/ # Digit manipulation programs
-├── File_Handling/ # File I/O programs
-├── Number-Operations/ # Number manipulation programs
-├── Pattern-Printing/ # Pattern printing programs
-└── ... # Other C practice programs
+├── Advanced_Programs/                     # Advanced C programs
+├── Array-Operations/                      # Array operation programs
+├── Basics/                                # Basic C programs
+├── Character_String_Operations/           # String and character operations
+├── Data_Structures/                       # Data structure programs
+├── Digits-Operations/                     # Digit manipulation programs
+├── File_Handling/                         # File I/O programs
+├── Number-Operations/                     # Number manipulation programs
+├── Pattern-Printing/                      # Pattern printing programs
+└── ...                                    # Other C practice programs
 
 
 
